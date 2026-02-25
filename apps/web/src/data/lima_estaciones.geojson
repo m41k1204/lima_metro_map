@@ -1,0 +1,2365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Villa El Salvador",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 1,
+        "ubicacion": "Av. Separadora Industrial con Av. Velasco Alvarado",
+        "distrito": "Villa El Salvador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9333291,
+          -12.2074261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Parque Industrial",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 2,
+        "ubicacion": "Av. Separadora Industrial con Av. El Sol",
+        "distrito": "Villa El Salvador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9393327,
+          -12.1975217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Pumacahua",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 3,
+        "ubicacion": "Av. La Unión con Ca. Capitán Elías Aguirre",
+        "distrito": "Villa María del Triunfo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94688,
+          -12.18232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Villa María",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 4,
+        "ubicacion": "Av. Pachacútec con Av. Santa Rosa",
+        "distrito": "Villa María del Triunfo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95036,
+          -12.16910
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "María Auxiliadora",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 5,
+        "ubicacion": "Av. Pachacútec con Jr. Angamos",
+        "distrito": "Villa María del Triunfo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95651,
+          -12.16090
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "San Juan",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 6,
+        "ubicacion": "Av. Los Héroes con Av. César Canevaro",
+        "distrito": "San Juan de Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96581,
+          -12.15653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Atocongo",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 7,
+        "ubicacion": "Av. Los Héroes con Av. Antonio Cárdenas",
+        "distrito": "San Juan de Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97962,
+          -12.15077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Jorge Chávez",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 8,
+        "ubicacion": "Av. Tomás Marsano con Av. Andrés Tinoco",
+        "distrito": "Santiago de Surco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99111,
+          -12.14252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Ayacucho",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 9,
+        "ubicacion": "Av. Tomás Marsano con Av. Ayacucho",
+        "distrito": "Santiago de Surco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99695,
+          -12.13474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Cabitos",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 10,
+        "ubicacion": "Av. Aviación con Óvalo Higuereta",
+        "distrito": "Santiago de Surco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00053,
+          -12.12729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Angamos",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 11,
+        "ubicacion": "Av. Aviación con Av. Angamos Este",
+        "distrito": "San Borja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00031,
+          -12.11038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "San Borja Sur",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 12,
+        "ubicacion": "Av. Aviación con Av. San Borja Sur",
+        "distrito": "San Borja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00172,
+          -12.10067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "La Cultura",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 13,
+        "ubicacion": "Av. Aviación con Av. Javier Prado Este",
+        "distrito": "San Borja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00382,
+          -12.08679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Nicolás Arriola",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 14,
+        "ubicacion": "Av. Aviación con Av. Nicolás Arriola",
+        "distrito": "La Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01113,
+          -12.07487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Gamarra",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 15,
+        "ubicacion": "Av. Aviación con Jr. Hipólito Unanue",
+        "distrito": "La Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01218,
+          -12.06568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Veintiocho de Julio",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "en_construccion",
+        "orden": 16,
+        "ubicacion": "Av. Aviación con Av. Veintiocho de Julio",
+        "distrito": "La Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01290,
+          -12.05419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Miguel Grau",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 17,
+        "ubicacion": "Av. Miguel Grau con Av. Nicolás Ayllón",
+        "distrito": "Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0140149,
+          -12.0583292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "El Ángel",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 18,
+        "ubicacion": "Av. Locumba con Av. El Ángel",
+        "distrito": "El Agustino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00991,
+          -12.04604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Presbítero Maestro",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 19,
+        "ubicacion": "Av. Ferrocarril con Ca. Rivera y Dávalos",
+        "distrito": "Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01176,
+          -12.04166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Caja de Agua",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 20,
+        "ubicacion": "Av. Próceres de la Independencia con Ca. El Tumi",
+        "distrito": "San Juan de Lurigancho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01117,
+          -12.02782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Pirámide del Sol",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 21,
+        "ubicacion": "Av. Próceres de la Independencia con Av. Pirámide del Sol",
+        "distrito": "San Juan de Lurigancho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00300,
+          -12.01825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Los Jardines",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 22,
+        "ubicacion": "Av. Próceres de la Independencia con Av. Los Jardines",
+        "distrito": "San Juan de Lurigancho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00529,
+          -12.00690
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Los Postes",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 23,
+        "ubicacion": "Av. Próceres de la Independencia con Av. Los Postes",
+        "distrito": "San Juan de Lurigancho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01001,
+          -11.99613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "San Carlos",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 24,
+        "ubicacion": "Av. Próceres de la Independencia con Av. El Sol",
+        "distrito": "San Juan de Lurigancho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00674,
+          -11.98511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "San Martín",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 25,
+        "ubicacion": "Av. Fernando Wiese con Av. Canto Rey",
+        "distrito": "San Juan de Lurigancho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00003,
+          -11.97455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Santa Rosa",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 26,
+        "ubicacion": "Av. Fernando Wiese con Av. Santa Rosa",
+        "distrito": "San Juan de Lurigancho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99336,
+          -11.96803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Bayóvar",
+        "linea": "Linea 1",
+        "numero_linea": 1,
+        "color": "#47AA42",
+        "estado": "operativa",
+        "orden": 27,
+        "ubicacion": "Av. Fernando Wiese con Av. Héroes del Cenepa",
+        "distrito": "San Juan de Lurigancho"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98752,
+          -11.95972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Municipalidad de Ate",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "obras_civiles_culminadas",
+        "orden": 1,
+        "ubicacion": "Carretera Central con Ca. Perú",
+        "distrito": "Ate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.91855405505032,
+          -12.025757339883429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Prolongación Javier Prado",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "obras_civiles_culminadas",
+        "orden": 2,
+        "ubicacion": "Carretera Central con Av. Prolongación Javier Prado",
+        "distrito": "Ate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.92650176755063,
+          -12.031820760842022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Vista Alegre",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "obras_civiles_culminadas",
+        "orden": 3,
+        "ubicacion": "Carretera Central con Av. Río Perené",
+        "distrito": "Ate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93205435754338,
+          -12.03885692670867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Mercado Santa Anita",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "operativa",
+        "orden": 4,
+        "ubicacion": "Carretera Central con Av. 22 de Julio",
+        "distrito": "Santa Anita / Ate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93904523695227,
+          -12.044071882213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Hermilio Valdizán",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "operativa",
+        "orden": 5,
+        "ubicacion": "Carretera Central con Hospital Hermilio Valdizán",
+        "distrito": "Santa Anita / Ate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94673797756693,
+          -12.04729841741777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Colectora Industrial",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "operativa",
+        "orden": 6,
+        "ubicacion": "Carretera Central con Av. Colectora Industrial",
+        "distrito": "Santa Anita / Ate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95597823568255,
+          -12.051163349964124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Óvalo Santa Anita",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "operativa",
+        "orden": 7,
+        "ubicacion": "Carretera Central con Av. La Molina",
+        "distrito": "Santa Anita / Ate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96393153532398,
+          -12.054245896740655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Evitamiento",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "operativa",
+        "orden": 8,
+        "ubicacion": "Av. Nicolás Ayllón con Vía de Evitamiento",
+        "distrito": "El Agustino / Ate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97413,
+          -12.05847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "San Juan de Dios",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "en_construccion",
+        "orden": 9,
+        "ubicacion": "Av. Nicolás Ayllón con Av. Nicolás Arriola",
+        "distrito": "San Luis / Ate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99010,
+          -12.06421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Circunvalación",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "obras_civiles_culminadas",
+        "orden": 10,
+        "ubicacion": "Av. Nicolás Ayllón con Av. Circunvalación",
+        "distrito": "San Luis / El Agustino"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99867,
+          -12.06359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Nicolás Ayllón",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "obras_civiles_culminadas",
+        "orden": 11,
+        "ubicacion": "Av. Nicolás Ayllón con Parque San Cosme",
+        "distrito": "Lima / La Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00582,
+          -12.06112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "28 de Julio",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "obras_civiles_culminadas",
+        "orden": 12,
+        "ubicacion": "Av. 28 de Julio con Av. Aviación",
+        "distrito": "Lima / La Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01265,
+          -12.06101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Cangallo",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "obras_civiles_culminadas",
+        "orden": 13,
+        "ubicacion": "Av. 28 de Julio con Jr. Cangallo",
+        "distrito": "La Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02135,
+          -12.06209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Plaza Manco Cápac",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "obras_civiles_culminadas",
+        "orden": 14,
+        "ubicacion": "Av. 28 de Julio con Av. Manco Cápac",
+        "distrito": "La Victoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03003,
+          -12.06336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Estación Central",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "en_construccion",
+        "orden": 15,
+        "ubicacion": "Av. 9 de Diciembre con Av. Inca Garcilaso de la Vega",
+        "distrito": "Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03745,
+          -12.05990
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Plaza Bolognesi",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "en_construccion",
+        "orden": 16,
+        "ubicacion": "Av. Arica con Jr. Iquique",
+        "distrito": "Breña / Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04392,
+          -12.05953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Parque Murillo",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "en_construccion",
+        "orden": 17,
+        "ubicacion": "Av. Arica con Av. Aguarico",
+        "distrito": "Breña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05196,
+          -12.05715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Tingo María",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "en_construccion",
+        "orden": 18,
+        "ubicacion": "Av. Venezuela con Av. Tingo María",
+        "distrito": "Lima / Breña"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06062,
+          -12.05631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "La Alborada",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "en_construccion",
+        "orden": 19,
+        "ubicacion": "Av. Venezuela con Av. La Alborada",
+        "distrito": "Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06831,
+          -12.05802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Elio",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "en_construccion",
+        "orden": 20,
+        "ubicacion": "Av. Venezuela con Av. Aurelio García y García",
+        "distrito": "Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07572,
+          -12.05938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "San Marcos",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "en_construccion",
+        "orden": 21,
+        "ubicacion": "Av. Carlos Germán Amézaga con Av. Ramón Herrera",
+        "distrito": "Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08124,
+          -12.05589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Óscar R. Benavides",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "en_construccion",
+        "orden": 22,
+        "ubicacion": "Av. Óscar R. Benavides con Jr. Santos Chocano",
+        "distrito": "Callao / Bellavista"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08853,
+          -12.05192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Carmen de La Legua",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "en_construccion",
+        "orden": 23,
+        "ubicacion": "Av. Óscar R. Benavides con Av. Elmer Faucett",
+        "distrito": "Callao / Bellavista"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09868,
+          -12.05373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Insurgentes",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "en_construccion",
+        "orden": 24,
+        "ubicacion": "Av. Óscar R. Benavides con Av. Insurgentes",
+        "distrito": "Callao / Bellavista"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.10398,
+          -12.05469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Juan Pablo II",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "obras_civiles_culminadas",
+        "orden": 25,
+        "ubicacion": "Av. Óscar R. Benavides con Av. Juan Pablo II",
+        "distrito": "Callao / Bellavista"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.11500,
+          -12.05708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Buenos Aires",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "obras_civiles_culminadas",
+        "orden": 26,
+        "ubicacion": "Av. Óscar R. Benavides con Av. Buenos Aires",
+        "distrito": "Callao / Bellavista"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.12554,
+          -12.05874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Puerto del Callao",
+        "linea": "Linea 2",
+        "numero_linea": 2,
+        "color": "#F5D800",
+        "estado": "obras_civiles_culminadas",
+        "orden": 27,
+        "ubicacion": "Av. Guardia Chalaca con Jr. Zepita",
+        "distrito": "Callao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.13810,
+          -12.05288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Pedro Miotta",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 1,
+        "ubicacion": "Av. Pedro Miotta con Ca. Ayabaca",
+        "distrito": "San Juan de Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97969510645575,
+          -12.158907441568287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Los Héroes",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 2,
+        "ubicacion": "Carretera Panamericana Sur con Av. Los Héroes",
+        "distrito": "San Juan de Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98309901069638,
+          -12.149531744365502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Las Gardenias",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 3,
+        "ubicacion": "Carretera Panamericana Sur con Av. Alfredo Benavides",
+        "distrito": "Santiago de Surco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9784305121331,
+          -12.131187271168782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Alejandro Velasco",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 4,
+        "ubicacion": "Av. Alfredo Benavides con Av. Velasco Astete",
+        "distrito": "Santiago de Surco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98779657378708,
+          -12.12783851978763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Cabitos",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 5,
+        "ubicacion": "Av. Alfredo Benavides con Óvalo Cabitos",
+        "distrito": "Miraflores / Santiago de Surco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00054167139972,
+          -12.127279131112973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Juana Alarco",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 6,
+        "ubicacion": "Av. Alfredo Benavides con Av. José Ramírez Gastón",
+        "distrito": "Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00941056541532,
+          -12.12759982278701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Panamá",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 7,
+        "ubicacion": "Av. Alfredo Benavides con Av. República de Panamá",
+        "distrito": "Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01807729292003,
+          -12.126240023567759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Parque Reducto",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 8,
+        "ubicacion": "Av. Alfredo Benavides con Av. Paseo de la República",
+        "distrito": "Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02409777134937,
+          -12.12533931588731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Parque Central de Miraflores",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 9,
+        "ubicacion": "Av. José Larco con Óvalo de Miraflores",
+        "distrito": "Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02920788035264,
+          -12.119254272544032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Huaca Pucllana",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 10,
+        "ubicacion": "Av. Arequipa con C. Ayacucho",
+        "distrito": "Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03023016512994,
+          -12.111618355718473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Andrés Aramburú",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 11,
+        "ubicacion": "Av. Arequipa con Av. Andrés Aramburú",
+        "distrito": "San Isidro / Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03158462466634,
+          -12.103558026180654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Conde de San Isidro",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 12,
+        "ubicacion": "Av. Arequipa con Av. Javier Prado Oeste",
+        "distrito": "San Isidro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0333189941256,
+          -12.092299242585783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "César Canevaro",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 13,
+        "ubicacion": "Av. Arequipa con Av. Juan Pardo de Zela",
+        "distrito": "Lince"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03463173566254,
+          -12.083551058204922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Museo de Historia Natural",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 14,
+        "ubicacion": "Av. Arequipa con Sargento Enrique Villar",
+        "distrito": "Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03559884367975,
+          -12.07667672263164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Parque de la Reserva",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 15,
+        "ubicacion": "Av. Arequipa con Jr. Madre de Dios",
+        "distrito": "Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03672782881503,
+          -12.06964361293019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Estación Central",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 16,
+        "ubicacion": "Av. Inca Garcilaso de la Vega con Av. 9 de Diciembre",
+        "distrito": "Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03745,
+          -12.05990
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Garcilaso de la Vega",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 17,
+        "ubicacion": "Av. Inca Garcilaso de la Vega con Jr. Quilca",
+        "distrito": "Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0386457347087,
+          -12.051002564484229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Tacna",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 18,
+        "ubicacion": "Av. Tacna con Av. Emancipación",
+        "distrito": "Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03750574192199,
+          -12.046388863779105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Caquetá",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 19,
+        "ubicacion": "Vía de Evitamiento con Av. Caquetá",
+        "distrito": "San Martín de Porres / Rímac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0434797937353,
+          -12.036999134091122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "José Granda",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 20,
+        "ubicacion": "Carretera Panamericana Norte con Av. José Granda",
+        "distrito": "San Martín de Porres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05769416220751,
+          -12.02856608000681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Bartolomé de las Casas",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 21,
+        "ubicacion": "Carretera Panamericana Norte con Av. Fray Bartolomé de las Casas",
+        "distrito": "San Martín de Porres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05975468895413,
+          -12.015549033736688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Tomás Valle",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 22,
+        "ubicacion": "Carretera Panamericana Norte con Av. Tomás Valle",
+        "distrito": "Los Olivos / Independencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06105278052459,
+          -12.008363234272858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Carlos Izaguirre",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 23,
+        "ubicacion": "Carretera Panamericana Norte con Av. Carlos Izaguirre",
+        "distrito": "Los Olivos / Independencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06396848998196,
+          -11.98998542247235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Naranjal",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 24,
+        "ubicacion": "Carretera Panamericana Norte con Av. Naranjal",
+        "distrito": "Los Olivos / Independencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06573952544055,
+          -11.977442441385005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Villa Sol",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 25,
+        "ubicacion": "Carretera Panamericana Norte con Av. Universitaria",
+        "distrito": "Los Olivos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0681208642762,
+          -11.962468837637937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "2 de Octubre",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 26,
+        "ubicacion": "Carretera Panamericana Norte con Av. 2 de Octubre",
+        "distrito": "Los Olivos / Comas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07126956371913,
+          -11.945642751665286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Huandoy",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 27,
+        "ubicacion": "Carretera Panamericana Norte con Av. Huandoy",
+        "distrito": "Los Olivos / Comas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07173801312477,
+          -11.937641418680617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "El Álamo",
+        "linea": "Linea 3",
+        "numero_linea": 3,
+        "color": "#00AEEF",
+        "estado": "proyectada",
+        "orden": 28,
+        "ubicacion": "Av. Chillón Trapiche con Av. Micaela Bastidas",
+        "distrito": "Comas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06398828675268,
+          -11.924696655875556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Gambetta",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "en_construccion",
+        "orden": 1,
+        "ubicacion": "Av. Elmer Faucett con Av. Néstor Gambetta",
+        "distrito": "Callao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1258166937089,
+          -11.996699850982587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Canta Callao",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "en_construccion",
+        "orden": 2,
+        "ubicacion": "Av. Elmer Faucett con Av. Canta Callao",
+        "distrito": "Callao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.11679910700074,
+          -12.000383400139203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Boca Negra",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "en_construccion",
+        "orden": 3,
+        "ubicacion": "Av. Elmer Faucett con Av. Boca Negra",
+        "distrito": "Callao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.11075206678167,
+          -12.012056822510603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Aeropuerto",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "en_construccion",
+        "orden": 4,
+        "ubicacion": "Av. Elmer Faucett con Av. Tomás Valle",
+        "distrito": "Callao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.10595391788281,
+          -12.0218443196215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "El Olivar",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "en_construccion",
+        "orden": 5,
+        "ubicacion": "Av. Elmer Faucett con Ca. Carbono",
+        "distrito": "Callao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.10268564619675,
+          -12.028031498460019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Quilca",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "en_construccion",
+        "orden": 6,
+        "ubicacion": "Av. Elmer Faucett con Av. Quilca",
+        "distrito": "Callao"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09933824934066,
+          -12.036061370766953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Morales Duárez",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "en_construccion",
+        "orden": 7,
+        "ubicacion": "Av. Elmer Faucett con Av. Morales Duárez",
+        "distrito": "Callao / Carmen de la Legua-Reynoso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09890641369459,
+          -12.040507733925011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Carmen de La Legua",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "en_construccion",
+        "orden": 8,
+        "ubicacion": "Av. Elmer Faucett con Av. Óscar R. Benavides",
+        "distrito": "Callao / Bellavista"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09868,
+          -12.05373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Venezuela",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "proyectada",
+        "orden": 9,
+        "ubicacion": "Av. República de Venezuela con Av. Elmer Faucett",
+        "distrito": "Bellavista / San Miguel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0971951643286,
+          -12.062499753499456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Rafael Escardó",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "proyectada",
+        "orden": 10,
+        "ubicacion": "Av. Rafael Escardó con Av. La Marina",
+        "distrito": "San Miguel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.09341056740917,
+          -12.0773598711058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Pando",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "proyectada",
+        "orden": 11,
+        "ubicacion": "Av. La Marina con Av. Universitaria",
+        "distrito": "San Miguel / Pueblo Libre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08132721582979,
+          -12.077877881725303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "José de Sucre",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "proyectada",
+        "orden": 12,
+        "ubicacion": "Av. José Antonio de Sucre con Av. La Marina",
+        "distrito": "Pueblo Libre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06727780501471,
+          -12.083068423662318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Brasil",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "proyectada",
+        "orden": 13,
+        "ubicacion": "Av. Sánchez Carrión con Av. Brasil",
+        "distrito": "Jesús María / Pueblo Libre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06300102272384,
+          -12.086395405788759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Felipe Salaverry",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "proyectada",
+        "orden": 14,
+        "ubicacion": "Av. Gral. Salaverry con Av. Javier Prado Oeste",
+        "distrito": "Jesús María / San Isidro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05436565081949,
+          -12.095143453419663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Guillermo Prescott",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "proyectada",
+        "orden": 15,
+        "ubicacion": "Av. Javier Prado Oeste con Av. Guillermo Prescott",
+        "distrito": "San Isidro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04733021658006,
+          -12.094236009234006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Las Palmeras",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "proyectada",
+        "orden": 16,
+        "ubicacion": "Av. Javier Prado Oeste con Ca. Las Palmeras",
+        "distrito": "San Isidro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03865595265735,
+          -12.09304006651659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Conde de San Isidro",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "proyectada",
+        "orden": 17,
+        "ubicacion": "Av. Javier Prado Oeste con Av. Arequipa",
+        "distrito": "San Isidro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0333189941256,
+          -12.092299242585783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Rivera Navarrete",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "proyectada",
+        "orden": 18,
+        "ubicacion": "Av. Javier Prado Este con Av. Ricardo Rivera Navarrete",
+        "distrito": "San Isidro / La Victoria / Lince"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.02695012189305,
+          -12.091358918706042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Pablo Carriquiry",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "proyectada",
+        "orden": 19,
+        "ubicacion": "Av. Javier Prado Este con Av. Pablo Carriquiry",
+        "distrito": "La Victoria / San Isidro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01907242209064,
+          -12.090512399443496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "La Cultura",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "proyectada",
+        "orden": 20,
+        "ubicacion": "Av. Javier Prado Este con Av. Aviación",
+        "distrito": "San Borja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00382,
+          -12.08679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "San Luis",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "proyectada",
+        "orden": 21,
+        "ubicacion": "Av. Javier Prado Este con Av. San Luis",
+        "distrito": "San Borja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99652886369758,
+          -12.087294241471996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Monterrico",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "proyectada",
+        "orden": 22,
+        "ubicacion": "Av. Javier Prado Este con Av. Circunvalación",
+        "distrito": "San Borja / Ate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98290324189324,
+          -12.084978348814332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Manuel Olguín",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "proyectada",
+        "orden": 23,
+        "ubicacion": "Av. Manuel Olguín entre Jockey Plaza y U. de Lima",
+        "distrito": "Santiago de Surco / La Molina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97326070044335,
+          -12.084052510706556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Los Frutales",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "proyectada",
+        "orden": 24,
+        "ubicacion": "Av. Javier Prado Este con Av. Los Frutales",
+        "distrito": "La Molina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96364229891515,
+          -12.07555458353011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "La Molina",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "proyectada",
+        "orden": 25,
+        "ubicacion": "Av. Javier Prado Este con Av. La Molina",
+        "distrito": "La Molina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95671147082665,
+          -12.071573054499744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Santa Patricia",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "proyectada",
+        "orden": 26,
+        "ubicacion": "Av. Javier Prado Este con Av. Los Ingenieros",
+        "distrito": "La Molina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94858705972455,
+          -12.068787522698056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Estadio Monumental",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "proyectada",
+        "orden": 27,
+        "ubicacion": "Av. Javier Prado Este con Av. Asturias",
+        "distrito": "Ate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93822836833743,
+          -12.053894141477718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Mercado Santa Anita",
+        "linea": "Linea 4",
+        "numero_linea": 4,
+        "color": "#E30613",
+        "estado": "proyectada",
+        "orden": 28,
+        "ubicacion": "Carretera Central con Av. 22 de Julio",
+        "distrito": "Ate / Santa Anita"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.93904523695227,
+          -12.044071882213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "República de Panamá",
+        "linea": "Linea 5",
+        "numero_linea": 5,
+        "color": "#F5A0C8",
+        "estado": "proyectada",
+        "orden": 1,
+        "ubicacion": "Av. Alfredo Benavides con Av. República de Panamá",
+        "distrito": "Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0182371,
+          -12.1263132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Sáenz Peña",
+        "linea": "Linea 5",
+        "numero_linea": 5,
+        "color": "#F5A0C8",
+        "estado": "proyectada",
+        "orden": 2,
+        "ubicacion": "Av. Almirante Miguel Grau con Av. Sáenz Peña",
+        "distrito": "Barranco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.017682,
+          -12.1418808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Alejandro Iglesias",
+        "linea": "Linea 5",
+        "numero_linea": 5,
+        "color": "#F5A0C8",
+        "estado": "proyectada",
+        "orden": 3,
+        "ubicacion": "Av. Alejandro Iglesias con Av. Escuela Militar",
+        "distrito": "Chorrillos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0190704,
+          -12.1569247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Matellini",
+        "linea": "Linea 5",
+        "numero_linea": 5,
+        "color": "#F5A0C8",
+        "estado": "proyectada",
+        "orden": 4,
+        "ubicacion": "Av. Ariosto Matellini con Av. Paseo de la República",
+        "distrito": "Chorrillos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0164499,
+          -12.1712883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Cóndores",
+        "linea": "Linea 5",
+        "numero_linea": 5,
+        "color": "#F5A0C8",
+        "estado": "proyectada",
+        "orden": 5,
+        "ubicacion": "Av. Defensores del Morro con Av. Confraternidad",
+        "distrito": "Chorrillos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0079216,
+          -12.1836354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Unidad de Peaje de Villa",
+        "linea": "Linea 5",
+        "numero_linea": 5,
+        "color": "#F5A0C8",
+        "estado": "proyectada",
+        "orden": 6,
+        "ubicacion": "Av. Defensores del Morro con Panamericana Sur",
+        "distrito": "Villa El Salvador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.000364,
+          -12.1960344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Circuito de Conchán",
+        "linea": "Linea 5",
+        "numero_linea": 5,
+        "color": "#F5A0C8",
+        "estado": "proyectada",
+        "orden": 7,
+        "ubicacion": "Panamericana Sur",
+        "distrito": "Villa El Salvador"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9894522,
+          -12.2071516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "MUNA",
+        "linea": "Linea 5",
+        "numero_linea": 5,
+        "color": "#F5A0C8",
+        "estado": "proyectada",
+        "orden": 8,
+        "ubicacion": "Antigua Panamericana Sur",
+        "distrito": "Lurín"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9785404,
+          -12.2182687
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "@lima-metro-map/db",
+  "type": "module",
+  "exports": {
+    ".": {
+      "default": "./src/index.ts"
+    },
+    "./*": {
+      "default": "./src/*.ts"
+    }
+  },
+  "scripts": {},
+  "dependencies": {
+    "@lima-metro-map/env": "workspace:*",
+    "dotenv": "catalog:",
+    "mongoose": "^8.14.0",
+    "zod": "catalog:"
+  },
+  "devDependencies": {
+    "@lima-metro-map/config": "workspace:*",
+    "typescript": "catalog:"
+  }
+}

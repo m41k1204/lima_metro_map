@@ -1,0 +1,26 @@
+{
+  "name": "@lima-metro-map/api",
+  "type": "module",
+  "exports": {
+    ".": {
+      "default": "./src/index.ts"
+    },
+    "./*": {
+      "default": "./src/*.ts"
+    }
+  },
+  "scripts": {},
+  "dependencies": {
+    "@lima-metro-map/db": "workspace:*",
+    "@lima-metro-map/env": "workspace:*",
+    "@trpc/client": "catalog:",
+    "@trpc/server": "catalog:",
+    "dotenv": "catalog:",
+    "next": "catalog:",
+    "zod": "catalog:"
+  },
+  "devDependencies": {
+    "@lima-metro-map/config": "workspace:*",
+    "typescript": "catalog:"
+  }
+}

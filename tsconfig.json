@@ -1,0 +1,3 @@
+{
+  "extends": "@lima-metro-map/config/tsconfig.base.json"
+}

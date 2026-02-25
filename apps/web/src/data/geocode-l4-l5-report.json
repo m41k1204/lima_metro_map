@@ -1,0 +1,488 @@
+[
+  {
+    "nombre": "Gambetta",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Elmer Faucett con Av. Néstor Gambetta",
+    "old": [
+      -77.1262122,
+      -11.9973039
+    ],
+    "new": null,
+    "dist_m": null,
+    "source": "not-found"
+  },
+  {
+    "nombre": "Canta Callao",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Elmer Faucett con Av. Canta Callao",
+    "old": [
+      -77.116699,
+      -12.0009743
+    ],
+    "new": [
+      -77.11688426,
+      -12.000713039999997
+    ],
+    "dist_m": 35,
+    "source": "overpass"
+  },
+  {
+    "nombre": "Boca Negra",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Elmer Faucett con Av. Boca Negra",
+    "old": [
+      -77.1120281,
+      -12.0100998
+    ],
+    "new": null,
+    "dist_m": null,
+    "source": "not-found"
+  },
+  {
+    "nombre": "Aeropuerto",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Elmer Faucett con Av. Tomás Valle",
+    "old": [
+      -77.1074405,
+      -12.0192685
+    ],
+    "new": [
+      -77.10523649999999,
+      -12.0214974
+    ],
+    "dist_m": 345,
+    "source": "overpass"
+  },
+  {
+    "nombre": "El Olivar",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Elmer Faucett con Ca. Carbono",
+    "old": [
+      -77.102853,
+      -12.0284373
+    ],
+    "new": null,
+    "dist_m": null,
+    "source": "not-found"
+  },
+  {
+    "nombre": "Quilca",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Elmer Faucett con Av. Quilca",
+    "old": [
+      -77.0991581,
+      -12.0378516
+    ],
+    "new": [
+      -77.09950029999999,
+      -12.03611155
+    ],
+    "dist_m": 197,
+    "source": "overpass"
+  },
+  {
+    "nombre": "Morales Duárez",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Elmer Faucett con Av. Morales Duárez",
+    "old": [
+      -77.09841,
+      -12.0480767
+    ],
+    "new": null,
+    "dist_m": null,
+    "source": "not-found"
+  },
+  {
+    "nombre": "Carmen de La Legua",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Elmer Faucett con Av. Óscar R. Benavides",
+    "old": [
+      -77.0975507,
+      -12.0582931
+    ],
+    "new": null,
+    "dist_m": null,
+    "source": "not-found"
+  },
+  {
+    "nombre": "Venezuela",
+    "linea": "Linea 4",
+    "ubicacion": "Av. República de Venezuela con Av. Elmer Faucett",
+    "old": [
+      -77.097812,
+      -12.0684857
+    ],
+    "new": [
+      -77.09715664285714,
+      -12.062614085714287
+    ],
+    "dist_m": 657,
+    "source": "overpass"
+  },
+  {
+    "nombre": "Rafael Escardó",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Rafael Escardó con Av. La Marina",
+    "old": [
+      -77.0957701,
+      -12.0761154
+    ],
+    "new": [
+      -77.0933514,
+      -12.07729515
+    ],
+    "dist_m": 294,
+    "source": "overpass"
+  },
+  {
+    "nombre": "Pando",
+    "linea": "Linea 4",
+    "ubicacion": "Av. La Marina con Av. Universitaria",
+    "old": [
+      -77.0859557,
+      -12.0780939
+    ],
+    "new": [
+      -77.08133292000001,
+      -12.078170340000002
+    ],
+    "dist_m": 503,
+    "source": "overpass"
+  },
+  {
+    "nombre": "José de Sucre",
+    "linea": "Linea 4",
+    "ubicacion": "Av. José Antonio de Sucre con Av. La Marina",
+    "old": [
+      -77.0760238,
+      -12.0800366
+    ],
+    "new": null,
+    "dist_m": null,
+    "source": "not-found"
+  },
+  {
+    "nombre": "Brasil",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Sánchez Carrión con Av. Brasil",
+    "old": [
+      -77.0663385,
+      -12.0833973
+    ],
+    "new": null,
+    "dist_m": null,
+    "source": "not-found"
+  },
+  {
+    "nombre": "Felipe Salaverry",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Gral. Salaverry con Av. Javier Prado Oeste",
+    "old": [
+      -77.0585371,
+      -12.0895351
+    ],
+    "new": null,
+    "dist_m": null,
+    "source": "not-found"
+  },
+  {
+    "nombre": "Guillermo Prescott",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Javier Prado Oeste con Av. Guillermo Prescott",
+    "old": [
+      -77.0502094,
+      -12.087094
+    ],
+    "new": null,
+    "dist_m": null,
+    "source": "not-found"
+  },
+  {
+    "nombre": "Las Palmeras",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Javier Prado Oeste con Ca. Las Palmeras",
+    "old": [
+      -77.0408913,
+      -12.0844238
+    ],
+    "new": [
+      -77.03864005,
+      -12.0930094
+    ],
+    "dist_m": 986,
+    "source": "overpass"
+  },
+  {
+    "nombre": "Conde de San Isidro",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Javier Prado Oeste con Av. Arequipa",
+    "old": [
+      -77.0307417,
+      -12.0829775
+    ],
+    "new": null,
+    "dist_m": null,
+    "source": "not-found"
+  },
+  {
+    "nombre": "Javier Prado",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Javier Prado Este con Paseo de la República",
+    "old": [
+      -77.0206456,
+      -12.0812538
+    ],
+    "new": [
+      -77.0237343,
+      -12.0907929
+    ],
+    "dist_m": 1113,
+    "source": "overpass"
+  },
+  {
+    "nombre": "Pablo Carriquiry",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Javier Prado Este con Av. Pablo Carriquiry",
+    "old": [
+      -77.0110861,
+      -12.0846366
+    ],
+    "new": null,
+    "dist_m": null,
+    "source": "not-found"
+  },
+  {
+    "nombre": "La Cultura",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Javier Prado Este con Av. Aviación",
+    "old": [
+      -77.0009933,
+      -12.0836351
+    ],
+    "new": [
+      -77.00359656666667,
+      -12.087873250000001
+    ],
+    "dist_m": 550,
+    "source": "overpass"
+  },
+  {
+    "nombre": "San Luis",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Javier Prado Este con Av. San Luis",
+    "old": [
+      -76.9917249,
+      -12.0796507
+    ],
+    "new": [
+      -76.996621675,
+      -12.086919850000001
+    ],
+    "dist_m": 968,
+    "source": "overpass"
+  },
+  {
+    "nombre": "Monterrico",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Javier Prado Este con Av. Circunvalación",
+    "old": [
+      -76.9847579,
+      -12.0831664
+    ],
+    "new": [
+      -76.96995637500001,
+      -12.07924895
+    ],
+    "dist_m": 1667,
+    "source": "overpass"
+  },
+  {
+    "nombre": "Manuel Olguín",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Manuel Olguín entre Jockey Plaza y U. de Lima",
+    "old": [
+      -76.9758671,
+      -12.0842139
+    ],
+    "new": null,
+    "dist_m": null,
+    "source": "not-found"
+  },
+  {
+    "nombre": "Los Frutales",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Javier Prado Este con Av. Los Frutales",
+    "old": [
+      -76.9667195,
+      -12.0806154
+    ],
+    "new": [
+      -76.96364997500001,
+      -12.075546625
+    ],
+    "dist_m": 655,
+    "source": "overpass"
+  },
+  {
+    "nombre": "La Molina",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Javier Prado Este con Av. La Molina",
+    "old": [
+      -76.9601781,
+      -12.0731111
+    ],
+    "new": [
+      -76.9566619,
+      -12.0715404
+    ],
+    "dist_m": 420,
+    "source": "overpass"
+  },
+  {
+    "nombre": "Santa Patricia",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Javier Prado Este con Av. Los Ingenieros",
+    "old": [
+      -76.9506145,
+      -12.0694453
+    ],
+    "new": [
+      -76.94858705,
+      -12.068786475
+    ],
+    "dist_m": 232,
+    "source": "overpass"
+  },
+  {
+    "nombre": "Estadio Monumental",
+    "linea": "Linea 4",
+    "ubicacion": "Av. Javier Prado Este con Av. Asturias",
+    "old": [
+      -76.9412235,
+      -12.0653522
+    ],
+    "new": null,
+    "dist_m": null,
+    "source": "not-found"
+  },
+  {
+    "nombre": "Mercado Santa Anita",
+    "linea": "Linea 4",
+    "ubicacion": "Carretera Central con Av. 22 de Julio",
+    "old": [
+      -76.9380283,
+      -12.0564443
+    ],
+    "new": null,
+    "dist_m": null,
+    "source": "not-found"
+  },
+  {
+    "nombre": "República de Panamá",
+    "linea": "Linea 5",
+    "ubicacion": "Av. Alfredo Benavides con Av. República de Panamá",
+    "old": [
+      -77.0182371,
+      -12.1263132
+    ],
+    "new": [
+      -77.01811636666666,
+      -12.12625
+    ],
+    "dist_m": 15,
+    "source": "overpass"
+  },
+  {
+    "nombre": "Sáenz Peña",
+    "linea": "Linea 5",
+    "ubicacion": "Av. Almirante Miguel Grau con Av. Sáenz Peña",
+    "old": [
+      -77.017682,
+      -12.1418808
+    ],
+    "new": [
+      -77.06919966666668,
+      -12.119706733333333
+    ],
+    "dist_m": 6119,
+    "source": "overpass"
+  },
+  {
+    "nombre": "Alejandro Iglesias",
+    "linea": "Linea 5",
+    "ubicacion": "Av. Alejandro Iglesias con Av. Escuela Militar",
+    "old": [
+      -77.0190704,
+      -12.1569247
+    ],
+    "new": null,
+    "dist_m": null,
+    "source": "not-found"
+  },
+  {
+    "nombre": "Matellini",
+    "linea": "Linea 5",
+    "ubicacion": "Av. Ariosto Matellini con Av. Paseo de la República",
+    "old": [
+      -77.0164499,
+      -12.1712883
+    ],
+    "new": [
+      -77.00981759999999,
+      -12.179066050000001
+    ],
+    "dist_m": 1126,
+    "source": "overpass"
+  },
+  {
+    "nombre": "Cóndores",
+    "linea": "Linea 5",
+    "ubicacion": "Av. Defensores del Morro con Av. Confraternidad",
+    "old": [
+      -77.0079216,
+      -12.1836354
+    ],
+    "new": [
+      -77.0016792,
+      -12.1947125
+    ],
+    "dist_m": 1406,
+    "source": "overpass"
+  },
+  {
+    "nombre": "Unidad de Peaje de Villa",
+    "linea": "Linea 5",
+    "ubicacion": "Av. Defensores del Morro con Panamericana Sur",
+    "old": [
+      -77.000364,
+      -12.1960344
+    ],
+    "new": null,
+    "dist_m": null,
+    "source": "not-found"
+  },
+  {
+    "nombre": "Circuito de Conchán",
+    "linea": "Linea 5",
+    "ubicacion": "Panamericana Sur",
+    "old": [
+      -76.9894522,
+      -12.2071516
+    ],
+    "new": null,
+    "dist_m": null,
+    "source": "not-found"
+  },
+  {
+    "nombre": "MUNA",
+    "linea": "Linea 5",
+    "ubicacion": "Antigua Panamericana Sur",
+    "old": [
+      -76.9785404,
+      -12.2182687
+    ],
+    "new": null,
+    "dist_m": null,
+    "source": "not-found"
+  }
+]
