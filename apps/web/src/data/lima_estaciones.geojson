@@ -2236,8 +2236,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.017682,
-          -12.1418808
+          -77.01788558809284,
+          -12.141817631402398
         ]
       }
     },
@@ -2256,8 +2256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0190704,
-          -12.1569247
+          -77.01923550427522,
+          -12.162031258993686
         ]
       }
     },
@@ -2276,8 +2276,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0164499,
-          -12.1712883
+          -77.00988264147703,
+          -12.178916458945142
         ]
       }
     },
@@ -2296,8 +2296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.0079216,
-          -12.1836354
+          -77.00178237017707,
+          -12.194765021369985
         ]
       }
     },
@@ -2316,8 +2316,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.000364,
-          -12.1960344
+          -76.97145545281828,
+          -12.226776637832891
         ]
       }
     },
@@ -2336,8 +2336,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9894522,
-          -12.2071516
+          -76.9554651434143,
+          -12.236733106568769
         ]
       }
     },
@@ -2356,8 +2356,608 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -76.9785404,
-          -12.2182687
+          -76.9117130271299,
+          -12.2553074398159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Naranjal",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 1,
+        "ubicacion": "Óvalo Naranjal",
+        "distrito": "Los Olivos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06573952544055,
+          -11.977442441385005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Los Alisos",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 2,
+        "ubicacion": "Av. Las Palmeras con Av. Los Alisos",
+        "distrito": "Los Olivos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07227080414116,
+          -11.983821454638141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Los Olivos",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 3,
+        "ubicacion": "Av. Carlos Izaguirre con Av. Av. Santiago Antúnez de Máyolo",
+        "distrito": "Los Olivos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07170754012243,
+          -11.991178359515953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Santiago Antúnez de Máyolo",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 4,
+        "ubicacion": "Av. Universitaria con Av. Santiago Antúnez de Máyolo",
+        "distrito": "San Martín de Porres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0846205145067,
+          -11.9961194674576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Angélica Gamarra",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 5,
+        "ubicacion": "Av. Universitaria con Av. Angélica Gamarra",
+        "distrito": "Los Olivos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08242244423799,
+          -12.00663544366372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Tomás Valle",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 6,
+        "ubicacion": "Av. Universitaria con Av. Tomás Valle",
+        "distrito": "San Martín de Porres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07982070150388,
+          -12.012659005117483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "San Germán",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 7,
+        "ubicacion": "Av. Universitaria con Av. Germán Aguirre",
+        "distrito": "Independencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0763035489432,
+          -12.019285317816927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "José Granda",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 8,
+        "ubicacion": "Av. Universitaria con Av. José Granda",
+        "distrito": "Independencia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07541305557464,
+          -12.026190040232745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Perú",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 9,
+        "ubicacion": "Av. Universitaria con Av. Perú",
+        "distrito": "Cercado de Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07757255429998,
+          -12.03185814529548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Argentina",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 10,
+        "ubicacion": "Av. Universitaria con Av. Argentina",
+        "distrito": "Cercado de Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0767825098917,
+          -12.046553102227387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "San Marcos",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 11,
+        "ubicacion": "Av. Carlos Germán Amézaga con Av. Ramón Herrera",
+        "distrito": "Cercado de Lima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08116121613699,
+          -12.055966083495862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "PUCP",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 12,
+        "ubicacion": "Av. Universitaria con Av. Mariano H. Cornejo",
+        "distrito": "San Miguel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07784587185193,
+          -12.068474672718086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Universitaria",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 13,
+        "ubicacion": "Av. Universitaria con Av. La Marina",
+        "distrito": "Pueblo Libre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08132721582979,
+          -12.077877881725303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Lima",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 14,
+        "ubicacion": "Av. Universitaria con Av. Lima",
+        "distrito": "Magdalena del Mar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08379798772339,
+          -12.086923691938724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Pque. Media Luna",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 15,
+        "ubicacion": "Av. La Paz con Parque Media Luna",
+        "distrito": "Magdalena del Mar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07990878464146,
+          -12.092106190316343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Magdalena",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 16,
+        "ubicacion": "Av. del Ejército con Av. Brasil",
+        "distrito": "Magdalena del Mar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.07088369210256,
+          -12.095760508934818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Ejército",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 17,
+        "ubicacion": "Av. del Ejército con Av. Gral. Salaverry",
+        "distrito": "Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05837655129793,
+          -12.10278521307731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Cuartel San Martín",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 18,
+        "ubicacion": "Av. del Ejército con Ex cuartel San Martín",
+        "distrito": "Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05195802510143,
+          -12.109833335231837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Pardo",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 19,
+        "ubicacion": "Av. José Pardo con Av. del Ejército",
+        "distrito": "Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04279559913422,
+          -12.118964802278096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Comandante Espinar",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 20,
+        "ubicacion": "Av. José Pardo con Av. Comandante Espinar",
+        "distrito": "Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03690010372506,
+          -12.119056587426279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Angamos",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 21,
+        "ubicacion": "Av. Angamos con Av. Comandante Espinar",
+        "distrito": "Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03692156128959,
+          -12.114010980847608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Arequipa",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 22,
+        "ubicacion": "Av. Angamos con Av. Arequipa",
+        "distrito": "Miraflores"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0298834449856,
+          -12.113738242643327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Mercado de Surquillo",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 23,
+        "ubicacion": "Av. Angamos con Av. San Felipe",
+        "distrito": "Surquillo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0184036021427,
+          -12.11298816064331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "La Calera",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 24,
+        "ubicacion": "Av. Angamos con Av. Principal",
+        "distrito": "San Borja"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00722217417429,
+          -12.112221147915502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Primavera",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 25,
+        "ubicacion": "Av. Primavera con Av. Aviación",
+        "distrito": "Santiago de Surco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.00017332903448,
+          -12.111665177553693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Caminos del Inca",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 26,
+        "ubicacion": "Av. Primavera con Av. Caminos del Inca",
+        "distrito": "Santiago de Surco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99362873893541,
+          -12.11127704660955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Velasco Astete",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 27,
+        "ubicacion": "Av. Primavera con Av. Velasco Astete",
+        "distrito": "Santiago de Surco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98451995710379,
+          -12.110647643888434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Panamericana Sur",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 28,
+        "ubicacion": "Av. Primavera con Panamericana Sur",
+        "distrito": "Santiago de Surco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97835087643035,
+          -12.11016510076893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "La Encalada",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 29,
+        "ubicacion": "Av. Primavera con Av. La Encalada",
+        "distrito": "La Molina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.97277188169873,
+          -12.109829418068388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "UPC",
+        "linea": "Linea 6",
+        "numero_linea": 6,
+        "color": "#8B008B",
+        "estado": "proyectada",
+        "orden": 30,
+        "ubicacion": "Fin de Av. Primavera",
+        "distrito": "La Molina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.96335196369373,
+          -12.103797548241053
         ]
       }
     }
