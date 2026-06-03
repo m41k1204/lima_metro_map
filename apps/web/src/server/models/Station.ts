@@ -1,4 +1,5 @@
-import mongoose, { Schema, InferSchemaType } from "mongoose";
+import mongoose, { Schema } from "mongoose";
+import type { InferSchemaType } from "mongoose";
 
 const stationSchema = new Schema({
   nombre: {
@@ -33,6 +34,9 @@ const stationSchema = new Schema({
   distrito: {
     type: String,
     required: true,
+  },
+  duracion_sig_min: {
+    type: Number,
   },
   location: {
     type: {

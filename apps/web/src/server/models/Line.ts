@@ -1,4 +1,5 @@
-import mongoose, { Schema, InferSchemaType } from "mongoose";
+import mongoose, { Schema } from "mongoose";
+import type { InferSchemaType } from "mongoose";
 
 const lineSchema = new Schema({
   nombre: {
@@ -26,6 +27,10 @@ const lineSchema = new Schema({
   estilo_linea: {
     type: String,
     enum: ["solid", "dashed"],
+    required: true,
+  },
+  frecuencia_min: {
+    type: Number,
     required: true,
   },
   ruta: {

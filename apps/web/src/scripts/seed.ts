@@ -11,10 +11,23 @@ if (!MONGODB_URI) {
   process.exit(1);
 }
 
+const MONGO_URI = MONGODB_URI as string;
+
+const FRECUENCIAS: Record<string, number> = {
+  "Linea 1": 8,
+  "Linea 2": 5,
+  "Linea 3": 6,
+  "Linea 4": 6,
+  "Linea 5": 6,
+  "Linea 6": 6,
+  "Metropolitano": 4,
+  "Metropolitano_ramal": 6,
+};
+
 async function seed() {
   try {
     // Conectar a MongoDB
-    await mongoose.connect(MONGODB_URI);
+    await mongoose.connect(MONGO_URI);
     console.log("✓ Conectado a MongoDB");
 
     // Limpiar colecciones
@@ -34,6 +47,7 @@ async function seed() {
         feature.properties;
       const coordinates = feature.geometry.coordinates;
 
+      const frecuencia_min = FRECUENCIAS[nombre] ?? 6;
       const linea = await LineModel.create({
         nombre,
         tipo,
@@ -41,6 +55,7 @@ async function seed() {
         color,
         estado,
         estilo_linea,
+        frecuencia_min,
         ruta: {
           type: "LineString",
           coordinates,
